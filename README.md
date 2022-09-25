@@ -1,5 +1,9 @@
 # xaimi-any-flash-rom
 
+``` xaiomi redmi verson fastboot rom file Downlod now ```
+``` image file exteat now ```
+### Bugjager in Flash imnow:-
+    
     fastboot devices
 
     fastboot erase userdata
