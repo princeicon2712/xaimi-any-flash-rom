@@ -4,11 +4,13 @@
 ``` image file exteat now ```
 ### Bugjager in Flash imnow:-
     
+    all command end path must be
+    
     fastboot devices
 
-    fastboot erase userdata
+    fastboot erase userdata /path all 
 
-    fastboot flash userdata
+    fastboot flash userdata /path all 
 
     fastboot flash dtbo
 
