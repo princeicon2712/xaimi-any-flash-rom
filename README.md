@@ -6,32 +6,32 @@
     
     all command end path must be
     
+    
     fastboot devices
 
-    fastboot erase userdata /path all 
+    fastboot flash boot /pathe all 
 
-    fastboot flash userdata /path all 
-
-    fastboot flash dtbo
-
-    fastboot flash system
-
-    fastboot flash vendor
-
-    fastboot flash vbmeta
-
-    fastboot flash dummy
-
-    fastboot flash boot
-
-    fastboot flash recovery
-
-    fastboot flash persist
+    fastboot flash cache /path all
 
     fastboot flash cust
 
+    fastboot flash dtbo
+
+    fastboot flash dummy
+
+    fastboot flash metada
+
     fastboot flash misc
 
-    fastboot flash metadata
+    fastboot flash persist
+
+    fastboot flash recovery
+
+    fastboot flash system
+
+    fastboot flash userdata
+
+    fastboot flash vendor
 
     fastboot reboot
+
