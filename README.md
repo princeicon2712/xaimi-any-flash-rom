@@ -1,4 +1,5 @@
 # xaimi-any-flash-rom
+my fastboot rom link:- https://drive.google.com/file/d/1-nr5FEmhapwkswxw9zYqeAwph19uqWbz/view?usp=drivesdk
 
 ``` xaiomi redmi verson fastboot rom file Downlod now ```
 ``` image file exteat now ```
