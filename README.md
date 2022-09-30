@@ -31,6 +31,8 @@
 
     fastboot flash userdata
 
+    fastboot flash vbmeta
+
     fastboot flash vendor
 
     fastboot reboot
