@@ -1,5 +1,6 @@
 # xaimi-any-flash-rom
 my fastboot rom link:- https://drive.google.com/file/d/1-nr5FEmhapwkswxw9zYqeAwph19uqWbz/view?usp=drivesdk
+my Derfast rom link:- https://sourceforge.net/projects/derpfest/files/ginkgo/DerpFest-13-Official-Tango-ginkgo-20221004-1529.zip/download 
 
 ``` xaiomi redmi verson fastboot rom file Downlod now ```
 ``` image file exteat now ```
